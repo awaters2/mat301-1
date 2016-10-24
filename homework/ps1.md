@@ -139,3 +139,4 @@ FROM database.table;
 19. Count all product's that have shipping weight less than 1 pound or greater than 20 pounds.
 20. Create your own query.
 
+
